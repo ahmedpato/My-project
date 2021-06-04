@@ -1,4 +1,19 @@
 // By : Ahmed Mohammed Ali / 20184020 .
+
+
+/*
+Question : Using linked-lists and structures, write a program that represents a student’s record. Student’s structure will contain the following attributes:
+
+int stu_id, string stu_name, int stu_semester, float stu_mark.
+
+The program will show to the user the following menu:
+
+1.Add student.
+
+2.Search a student by name
+
+3.Exit
+*/
 #include <iostream>
 
 #include <string>
