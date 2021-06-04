@@ -1,4 +1,21 @@
 // By : Ahmed Mohammed Ali / 20184020 .
+
+/*
+Question : Using queue and strings,
+write a program that solving gas cylinder queues problem in Libya by developing
+a system that shows the following:
+
+
+1.Register a customer name(in String).
+
+
+2.Show how many customers.
+
+
+3.Show all registered customers names.
+
+
+*/
 #include <iostream>
 #include <queue>
 #include <string>
