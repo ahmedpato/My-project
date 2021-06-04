@@ -1,4 +1,21 @@
 // By : Ahmed Mohammed Ali / 20184020
+
+
+/* 
+Question : 
+Using vector, write a program that asks the user to enter 5 integer numbers and shows the following:
+
+Summation, subtraction, multiplication, and
+division of the numbers.
+
+Average, max, min.
+
+Print numbers in a sorted sequence.
+
+
+
+
+*/
 #include <iostream>
 #include <vector>
 #include <bits/stdc++.h>
