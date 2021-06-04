@@ -1,4 +1,30 @@
 // By : Ahmed Mohammed Ali / 20184020 .
+
+/*
+Question : 
+Using stack, write a
+program that represents a web browser which will show the following menu to the
+user:
+
+
+1-     
+Enter website (the user
+will enter a website i.e. www.google.com
+and the website will be saved in the web browser history stack).
+
+
+2-     
+Show all history.
+
+
+3-     
+Delete all history.
+
+
+4-      Exit.
+
+
+*/
 #include <iostream>
 #include <string>
 #include <stack>
