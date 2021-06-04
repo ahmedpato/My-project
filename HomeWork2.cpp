@@ -1,4 +1,21 @@
 // By : Ahmed Mohammed Ali / 20184020
+
+/*
+Question : Using
+vector, write a program asks the user to enter number of student’s marks and
+the program will ask the user again to enter the marks (full mark of each
+subject is 100). Then Print the followings:
+
+1.Total of marks.
+
+2.Average of marks.
+
+3.Percentage of student’s total marks ( student_mark / full_mark*100 )
+
+4.Grade of student’s total mark.
+
+5.GPA of student’s total mark.
+*/
 #include <vector>
 #include <iostream>
 #include <string>
